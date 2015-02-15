@@ -44,6 +44,8 @@ by Nicholas Kong, Jeffrey Heer, and Maneesh Agrawala
 * even at relatively low data densities treemaps result in faster comparisons than
   bar charts.
 
+_[d3 implementation](https://github.com/mbostock/d3/wiki/Treemap-Layout)_
+
 ## Colors
 
 > use hue to show categorical differences and use lightness to show
@@ -70,5 +72,5 @@ _[d3 example](http://bost.ocks.org/mike/fisheye/)_
 
 ## Chart Types
 
-* [Horizon charts improve recognition of both small and large changes for data that fits x & y axes, like time series](http://www.perceptualedge.com/articles/visual_business_intelligence/time_on_the_horizon.pdf)
+* [Horizon charts](http://www.perceptualedge.com/articles/visual_business_intelligence/time_on_the_horizon.pdf) improve recognition of both small and large changes for data that fits x & y axes, like time series
 * [Chord diagrams](http://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.full.pdf+html) enable visualization of multi-dimensional and connected data
