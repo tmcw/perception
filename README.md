@@ -33,7 +33,7 @@ by [Jeffrey Heer](http://homes.cs.washington.edu/~jheer/), George Robertson
 > one thing at a time” staging.
 
 A popular industry application of this research is [d3js](http://d3js.org/)'s
-staggered transitions [as seen in its showreel](http://bl.ocks.org/mbostock/1256572).
+staggered transitions [as seen in its showreel](http://bl.ocks.org/mbostock/3943967).
 
 ## Treemaps
 
@@ -74,3 +74,6 @@ _[d3 example](http://bost.ocks.org/mike/fisheye/)_
 
 * [Horizon charts](http://www.perceptualedge.com/articles/visual_business_intelligence/time_on_the_horizon.pdf) improve recognition of both small and large changes for data that fits x & y axes, like time series
 * [Chord diagrams](http://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.full.pdf+html) enable visualization of multi-dimensional and connected data
+* [Stacked Graphs](http://www.leebyron.com/else/streamgraph/) also known as streamgraphs, which gained popularity with ThemeRiver and its
+  visualization of last.fm data. An alternative to stacked area charts,
+  they can thrive with series that vary and disappear over time.
