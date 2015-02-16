@@ -35,6 +35,33 @@ by [Jeffrey Heer](http://homes.cs.washington.edu/~jheer/), George Robertson
 A popular industry application of this research is [d3js](http://d3js.org/)'s
 staggered transitions [as seen in its showreel](http://bl.ocks.org/mbostock/3943967).
 
+> According to this analysis, if there are benefits to animation, they should be evident
+> especially for continuous rather than discrete changes, in particular, for manner of
+> change and for microsteps, the subtle and intricate timing relations among parts of a
+> complex system. However, even for these cases, clever schematization of static diagrams
+> may be just as effective as animation. For example, arrows are effective in indicating
+> temporal sequence and direction of motion
+
+[Animation: can it facilitate?](http://www2.sims.berkeley.edu/courses/is247/f05/readings/Tversky_AnimationFacilitate_IJHCS02.pdf)
+
+## Animating Pan & Zoom
+
+> Large 2D information spaces, such as maps, images, or abstract visualizations,
+> require views at various level of detail: Close ups to
+> inspect details, overviews to maintain (literally) an overview. Users
+> often switch between these views. We discuss how smooth animations
+> from one view to another can be defined. To this end, a
+> metric on the effect of simultaneous zooming and panning is defined,
+> based on an estimate of the perceived velocity
+
+The proposed algorithm, which is implemented in [Leaflet](http://leafletjs.com/) 0.8,
+and [Mapbox GL](https://www.mapbox.com/mapbox-gl/), presents a way to pan and
+zoom that is less jarring and easier to follow that simple linear interpolation
+of both variables. The paper doesn't discuss cognitive benefits, but
+the results are often percieved as more pleasant than the simple way.
+
+[Smooth and efficient zooming and panning](http://www.win.tue.nl/~vanwijk/zoompan.pdf) by Jarke J. van Wijk & Wim A.A. Nuij
+
 ## Treemaps
 
 [Perceptual Guidelines for Creating Rectangular Treemaps](http://vis.stanford.edu/files/2010-Treemaps-InfoVis.pdf)
