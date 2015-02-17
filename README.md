@@ -11,6 +11,16 @@ of their size. Prefer bar charts to pie charts.
 * [Save the Pies for Dessert](http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf) by
   [Stephen Few](http://www.perceptualedge.com/)
 
+> Our analysis has provided, in a sense, a resolution of the 'Bar-Circle Debate'...about whether
+> the divided bar chart or the pie chart was superior for portraying parts of a whole.
+> The contest appears to have ended in a draw. We conclude that neither graphical form
+> should be used because other methods are demonstrably better.
+
+> A divided bar chart can always be replaced by a grouped bar chart; again,
+> we prefer a grouped dot chart to a grouped bar chart.
+
+[Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf) by William S. Cleveland; Robert McGill
+
 ## Animated Graphics
 
 [Change Blindness in Animated Choropleth Maps: An Empirical Study](http://thecartofish.com/FishGoldsBatts2011.pdf)
