@@ -97,6 +97,8 @@ use perceptual color spaces like CIE.
 [Generating Color Palettes using Intuitive Parameters](http://magnaview.nl/documents/MagnaView-M_Wijffelaars-Generating_color_palettes_using_intuitive_parameters.pdf) &
 [How to Avoid Equidistant Colors](http://vis4.net/blog/posts/avoid-equidistant-hsv-colors/)
 
+When choosing map and visualization colors, check that your color scheme is colorblind friendly and [ADA: Section 508 compliant](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html).  [ColorBrewer](http://colorbrewer2.org/) and [WebAIM Contrast Color](http://webaim.org/resources/contrastchecker/) are great resources to check colorblind safe, print friendly, and photocopy safe color schemes.
+
 ## Fisheye Effect
 
 > A fisheye camera lens is a very wide angle lens that magnifies nearby objects while
