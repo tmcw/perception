@@ -115,7 +115,7 @@ _[d3 example](http://bost.ocks.org/mike/fisheye/)_
 * [Chord diagrams](http://genome.cshlp.org/content/early/2009/06/15/gr.092759.109.full.pdf+html) enable visualization of multi-dimensional and connected data
 * [Sankey diagrams](https://en.wikipedia.org/wiki/Sankey_diagram) depict flow from one set of values to another.
 * [Candlestick charts](http://en.wikipedia.org/wiki/Candlestick_chart) is a style of financial chart used to describe price movements of a security, derivative, or currency.
-* * [Scatter charts](https://developers.google.com/chart/image/docs/gallery/scatter_charts) is a set of individual dots on a two-dimensional chart. Scatter charts are good for detecting groupings or patterns in many data points that have two variables (if you have only one variable, consider a line chart).
+* [Scatter charts](https://developers.google.com/chart/image/docs/gallery/scatter_charts) are comprised of individual dots on a two-dimensional chart. Scatter charts are good for detecting groupings or patterns in many data points that have two variables (if you have only one variable, consider a line chart).
 * [Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR) are “small intense, simple, word-sized graphic with typographic resolution.”
 * [Stacked Graphs](http://www.leebyron.com/else/streamgraph/) also known as streamgraphs, which gained popularity with ThemeRiver and its
   visualization of last.fm data. An alternative to stacked area charts,
