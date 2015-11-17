@@ -99,6 +99,8 @@ use perceptual color spaces like CIE.
 
 When choosing map and visualization colors, check that your color scheme is colorblind friendly and [ADA: Section 508 compliant](http://www.hhs.gov/web/508/accessiblefiles/checklisthtml.html).  [ColorBrewer](http://colorbrewer2.org/) and [WebAIM Contrast Color](http://webaim.org/resources/contrastchecker/) are great resources to check colorblind safe, print friendly, and photocopy safe color schemes.
 
+As [Eric Fischer's research into colorblindness simulation reveals](https://www.mapbox.com/blog/colorblind-simulation/), the traditional formulas for simulating colorblindness and choosing safe combinations don't match to the reality of colorblind perception.
+
 ## Fisheye Effect
 
 > A fisheye camera lens is a very wide angle lens that magnifies nearby objects while
