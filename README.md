@@ -122,3 +122,7 @@ _[d3 example](http://bost.ocks.org/mike/fisheye/)_
 * [Stacked Graphs](http://www.leebyron.com/else/streamgraph/) also known as streamgraphs, which gained popularity with ThemeRiver and its
   visualization of last.fm data. An alternative to stacked area charts,
   they can thrive with series that vary and disappear over time.
+
+## Other Collections
+
+* [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.t3natrxki)
