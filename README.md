@@ -2,6 +2,12 @@
 
 _collected & summarized research on the effectiveness of visualization techniques_
 
+## Pie Charts vs Square Pie Charts vs Stacked Bars
+
+> Pies and donuts are no different, though both are worse than the square pie chart.
+
+[A Reanalysis of A Study About (Square) Pie Charts from 2009](https://eagereyes.org/blog/2016/a-reanalysis-of-a-study-about-square-pie-charts-from-2009)
+
 ## Pie Charts
 
 Pie charts are misleading: position and color of slices affects our judgments
