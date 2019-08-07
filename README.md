@@ -74,7 +74,7 @@ The proposed algorithm, which is implemented in [Leaflet](http://leafletjs.com/)
 and [Mapbox GL](https://www.mapbox.com/mapbox-gl/), presents a way to pan and
 zoom that is less jarring and easier to follow that simple linear interpolation
 of both variables. The paper doesn't discuss cognitive benefits, but
-the results are often percieved as more pleasant than the simple way.
+the results are often perceived as more pleasant than the simple way.
 
 [Smooth and efficient zooming and panning](http://www.win.tue.nl/~vanwijk/zoompan.pdf) by Jarke J. van Wijk & Wim A.A. Nuij
 
